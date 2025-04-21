@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Мой Первый Сайт</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background: #fdfdfd;
+            text-align: center;
+            margin-top: 50px;
+        }
+        h1 {
+            color: #333;
+        }
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            text-decoration: none;
+            color: #0077cc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Привет! Это мой первый сайт 😊</h1>
+    <p>Сделано с любовью и HTML.</p>
+    <a href="https://github.com" target="_blank">Ссылка на GitHub</a>
+</body>
+</html>
